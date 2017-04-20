@@ -1,181 +1,181 @@
 <svg height="2846" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2846" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 14:20:04 +0000  1176354 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 14:20:04 +0000     6935 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 14:20:04 +0000     1265 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 14:20:04 +0000    39507 bytes  DOCUMENTATION.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 14:20:04 +0000     1761 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 14:20:04 +0000     1727 bytes  binding.gyp</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 14:20:04 +0000    12978 bytes  build/Makefile</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 14:20:04 +0000   257468 bytes  build/Release/obj.target/wiringPi.node</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 14:20:04 +0000     2512 bytes  build/Release/obj.target/wiringPi/src/addon.o</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 14:20:04 +0000     2568 bytes  build/Release/obj.target/wiringPi/src/devlib/dev\</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 14:21:49 +0000  1176338 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 14:21:49 +0000     6935 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 14:21:49 +0000     1265 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 14:21:49 +0000    39507 bytes  DOCUMENTATION.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 14:21:49 +0000     1761 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 14:21:49 +0000     1727 bytes  binding.gyp</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 14:21:49 +0000    12978 bytes  build/Makefile</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 14:21:49 +0000   257468 bytes  build/Release/obj.target/wiringPi.node</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 14:21:49 +0000     2512 bytes  build/Release/obj.target/wiringPi/src/addon.o</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 14:21:49 +0000     2568 bytes  build/Release/obj.target/wiringPi/src/devlib/dev\</tspan>
 <tspan x="10" y="186">lib.o</tspan>
-<tspan x="10" y="202"> 10.  2017-04-20 14:20:04 +0000    15768 bytes  build/Release/obj.target/wiringPi/src/devlib/ds1\</tspan>
+<tspan x="10" y="202"> 10.  2017-04-20 14:21:49 +0000    15768 bytes  build/Release/obj.target/wiringPi/src/devlib/ds1\</tspan>
 <tspan x="10" y="218">302.o</tspan>
-<tspan x="10" y="234"> 11.  2017-04-20 14:20:04 +0000     3936 bytes  build/Release/obj.target/wiringPi/src/devlib/ger\</tspan>
+<tspan x="10" y="234"> 11.  2017-04-20 14:21:49 +0000     3936 bytes  build/Release/obj.target/wiringPi/src/devlib/ger\</tspan>
 <tspan x="10" y="250">tboard.o</tspan>
-<tspan x="10" y="266"> 12.  2017-04-20 14:20:04 +0000    28000 bytes  build/Release/obj.target/wiringPi/src/devlib/lcd\</tspan>
+<tspan x="10" y="266"> 12.  2017-04-20 14:21:49 +0000    28000 bytes  build/Release/obj.target/wiringPi/src/devlib/lcd\</tspan>
 <tspan x="10" y="282">.o</tspan>
-<tspan x="10" y="298"> 13.  2017-04-20 14:20:04 +0000    34968 bytes  build/Release/obj.target/wiringPi/src/devlib/lcd\</tspan>
+<tspan x="10" y="298"> 13.  2017-04-20 14:21:49 +0000    34968 bytes  build/Release/obj.target/wiringPi/src/devlib/lcd\</tspan>
 <tspan x="10" y="314">128x64.o</tspan>
-<tspan x="10" y="330"> 14.  2017-04-20 14:20:04 +0000     5920 bytes  build/Release/obj.target/wiringPi/src/devlib/max\</tspan>
+<tspan x="10" y="330"> 14.  2017-04-20 14:21:49 +0000     5920 bytes  build/Release/obj.target/wiringPi/src/devlib/max\</tspan>
 <tspan x="10" y="346">detect.o</tspan>
-<tspan x="10" y="362"> 15.  2017-04-20 14:20:04 +0000     3880 bytes  build/Release/obj.target/wiringPi/src/devlib/piF\</tspan>
+<tspan x="10" y="362"> 15.  2017-04-20 14:21:49 +0000     3880 bytes  build/Release/obj.target/wiringPi/src/devlib/piF\</tspan>
 <tspan x="10" y="378">ace.o</tspan>
-<tspan x="10" y="394"> 16.  2017-04-20 14:20:04 +0000    10608 bytes  build/Release/obj.target/wiringPi/src/devlib/piG\</tspan>
+<tspan x="10" y="394"> 16.  2017-04-20 14:21:49 +0000    10608 bytes  build/Release/obj.target/wiringPi/src/devlib/piG\</tspan>
 <tspan x="10" y="410">low.o</tspan>
-<tspan x="10" y="426"> 17.  2017-04-20 14:20:04 +0000     8080 bytes  build/Release/obj.target/wiringPi/src/devlib/piN\</tspan>
+<tspan x="10" y="426"> 17.  2017-04-20 14:21:49 +0000     8080 bytes  build/Release/obj.target/wiringPi/src/devlib/piN\</tspan>
 <tspan x="10" y="442">es.o</tspan>
-<tspan x="10" y="458"> 18.  2017-04-20 14:20:04 +0000    24800 bytes  build/Release/obj.target/wiringPi/src/devlib/tcs\</tspan>
+<tspan x="10" y="458"> 18.  2017-04-20 14:21:49 +0000    24800 bytes  build/Release/obj.target/wiringPi/src/devlib/tcs\</tspan>
 <tspan x="10" y="474">34725.o</tspan>
-<tspan x="10" y="490"> 19.  2017-04-20 14:20:04 +0000     6880 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
+<tspan x="10" y="490"> 19.  2017-04-20 14:21:49 +0000     6880 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
 <tspan x="10" y="506">/dac7678.o</tspan>
-<tspan x="10" y="522"> 20.  2017-04-20 14:20:04 +0000     5736 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
+<tspan x="10" y="522"> 20.  2017-04-20 14:21:49 +0000     5736 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
 <tspan x="10" y="538">/drcSerial.o</tspan>
-<tspan x="10" y="554"> 21.  2017-04-20 14:20:04 +0000     3736 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
+<tspan x="10" y="554"> 21.  2017-04-20 14:21:49 +0000     3736 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
 <tspan x="10" y="570">/extensions.o</tspan>
-<tspan x="10" y="586"> 22.  2017-04-20 14:20:04 +0000     4904 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
+<tspan x="10" y="586"> 22.  2017-04-20 14:21:49 +0000     4904 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
 <tspan x="10" y="602">/max31855.o</tspan>
-<tspan x="10" y="618"> 23.  2017-04-20 14:20:04 +0000     4904 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
+<tspan x="10" y="618"> 23.  2017-04-20 14:21:49 +0000     4904 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
 <tspan x="10" y="634">/max5322.o</tspan>
-<tspan x="10" y="650"> 24.  2017-04-20 14:20:04 +0000     4360 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
+<tspan x="10" y="650"> 24.  2017-04-20 14:21:49 +0000     4360 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
 <tspan x="10" y="666">/mcp23008.o</tspan>
-<tspan x="10" y="682"> 25.  2017-04-20 14:20:04 +0000     4360 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
+<tspan x="10" y="682"> 25.  2017-04-20 14:21:49 +0000     4360 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
 <tspan x="10" y="698">/mcp23016.o</tspan>
-<tspan x="10" y="714"> 26.  2017-04-20 14:20:04 +0000     4360 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
+<tspan x="10" y="714"> 26.  2017-04-20 14:21:49 +0000     4360 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
 <tspan x="10" y="730">/mcp23017.o</tspan>
-<tspan x="10" y="746"> 27.  2017-04-20 14:20:04 +0000     5688 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
+<tspan x="10" y="746"> 27.  2017-04-20 14:21:49 +0000     5688 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
 <tspan x="10" y="762">/mcp23s08.o</tspan>
-<tspan x="10" y="778"> 28.  2017-04-20 14:20:04 +0000     5688 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
+<tspan x="10" y="778"> 28.  2017-04-20 14:21:49 +0000     5688 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
 <tspan x="10" y="794">/mcp23s17.o</tspan>
-<tspan x="10" y="810"> 29.  2017-04-20 14:20:04 +0000     4904 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
+<tspan x="10" y="810"> 29.  2017-04-20 14:21:49 +0000     4904 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
 <tspan x="10" y="826">/mcp3002.o</tspan>
-<tspan x="10" y="842"> 30.  2017-04-20 14:20:04 +0000     4904 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
+<tspan x="10" y="842"> 30.  2017-04-20 14:21:49 +0000     4904 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
 <tspan x="10" y="858">/mcp3004.o</tspan>
-<tspan x="10" y="874"> 31.  2017-04-20 14:20:04 +0000     8112 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
+<tspan x="10" y="874"> 31.  2017-04-20 14:21:49 +0000     8112 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
 <tspan x="10" y="890">/mcp3422.o</tspan>
-<tspan x="10" y="906"> 32.  2017-04-20 14:20:04 +0000     4904 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
+<tspan x="10" y="906"> 32.  2017-04-20 14:21:49 +0000     4904 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
 <tspan x="10" y="922">/mcp4802.o</tspan>
-<tspan x="10" y="938"> 33.  2017-04-20 14:20:04 +0000     4832 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
+<tspan x="10" y="938"> 33.  2017-04-20 14:21:49 +0000     4832 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
 <tspan x="10" y="954">/pca9685.o</tspan>
-<tspan x="10" y="970"> 34.  2017-04-20 14:20:04 +0000     4352 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
+<tspan x="10" y="970"> 34.  2017-04-20 14:21:49 +0000     4352 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
 <tspan x="10" y="986">/pcf8574.o</tspan>
-<tspan x="10" y="1002"> 35.  2017-04-20 14:20:04 +0000     4352 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
+<tspan x="10" y="1002"> 35.  2017-04-20 14:21:49 +0000     4352 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
 <tspan x="10" y="1018">/pcf8591.o</tspan>
-<tspan x="10" y="1034"> 36.  2017-04-20 14:20:04 +0000     3880 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
+<tspan x="10" y="1034"> 36.  2017-04-20 14:21:49 +0000     3880 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
 <tspan x="10" y="1050">/sn3218.o</tspan>
-<tspan x="10" y="1066"> 37.  2017-04-20 14:20:04 +0000     5752 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
+<tspan x="10" y="1066"> 37.  2017-04-20 14:21:49 +0000     5752 bytes  build/Release/obj.target/wiringPi/src/extensions\</tspan>
 <tspan x="10" y="1082">/sr595.o</tspan>
-<tspan x="10" y="1098"> 38.  2017-04-20 14:20:04 +0000     7712 bytes  build/Release/obj.target/wiringPi/src/softPwm.o</tspan>
-<tspan x="10" y="1114"> 39.  2017-04-20 14:20:04 +0000     8832 bytes  build/Release/obj.target/wiringPi/src/softServo.\</tspan>
+<tspan x="10" y="1098"> 38.  2017-04-20 14:21:49 +0000     7712 bytes  build/Release/obj.target/wiringPi/src/softPwm.o</tspan>
+<tspan x="10" y="1114"> 39.  2017-04-20 14:21:49 +0000     8832 bytes  build/Release/obj.target/wiringPi/src/softServo.\</tspan>
 <tspan x="10" y="1130">o</tspan>
-<tspan x="10" y="1146"> 40.  2017-04-20 14:20:04 +0000     6824 bytes  build/Release/obj.target/wiringPi/src/softTone.o</tspan>
-<tspan x="10" y="1162"> 41.  2017-04-20 14:20:04 +0000    58048 bytes  build/Release/obj.target/wiringPi/src/wiringPi.o</tspan>
-<tspan x="10" y="1178"> 42.  2017-04-20 14:20:04 +0000    18224 bytes  build/Release/obj.target/wiringPi/src/wiringPiI2\</tspan>
+<tspan x="10" y="1146"> 40.  2017-04-20 14:21:49 +0000     6824 bytes  build/Release/obj.target/wiringPi/src/softTone.o</tspan>
+<tspan x="10" y="1162"> 41.  2017-04-20 14:21:49 +0000    58048 bytes  build/Release/obj.target/wiringPi/src/wiringPi.o</tspan>
+<tspan x="10" y="1178"> 42.  2017-04-20 14:21:49 +0000    18224 bytes  build/Release/obj.target/wiringPi/src/wiringPiI2\</tspan>
 <tspan x="10" y="1194">C.o</tspan>
-<tspan x="10" y="1210"> 43.  2017-04-20 14:20:04 +0000    23064 bytes  build/Release/obj.target/wiringPi/src/wiringPiIS\</tspan>
+<tspan x="10" y="1210"> 43.  2017-04-20 14:21:49 +0000    23064 bytes  build/Release/obj.target/wiringPi/src/wiringPiIS\</tspan>
 <tspan x="10" y="1226">R.o</tspan>
-<tspan x="10" y="1242"> 44.  2017-04-20 14:20:04 +0000    14016 bytes  build/Release/obj.target/wiringPi/src/wiringPiSP\</tspan>
+<tspan x="10" y="1242"> 44.  2017-04-20 14:21:49 +0000    14016 bytes  build/Release/obj.target/wiringPi/src/wiringPiSP\</tspan>
 <tspan x="10" y="1258">I.o</tspan>
-<tspan x="10" y="1274"> 45.  2017-04-20 14:20:04 +0000    13880 bytes  build/Release/obj.target/wiringPi/src/wiringSeri\</tspan>
+<tspan x="10" y="1274"> 45.  2017-04-20 14:21:49 +0000    13880 bytes  build/Release/obj.target/wiringPi/src/wiringSeri\</tspan>
 <tspan x="10" y="1290">al.o</tspan>
-<tspan x="10" y="1306"> 46.  2017-04-20 14:20:04 +0000     8920 bytes  build/Release/obj.target/wiringPi/src/wiringShif\</tspan>
+<tspan x="10" y="1306"> 46.  2017-04-20 14:21:49 +0000     8920 bytes  build/Release/obj.target/wiringPi/src/wiringShif\</tspan>
 <tspan x="10" y="1322">t.o</tspan>
-<tspan x="10" y="1338"> 47.  2017-04-20 14:20:04 +0000     3992 bytes  build/Release/obj.target/wiringPi/src/wpi.o</tspan>
-<tspan x="10" y="1354"> 48.  2017-04-20 14:20:04 +0000   257468 bytes  build/Release/wiringPi.node</tspan>
-<tspan x="10" y="1370"> 49.  2017-04-20 14:20:04 +0000      116 bytes  build/binding.Makefile</tspan>
-<tspan x="10" y="1386"> 50.  2017-04-20 14:20:04 +0000     4798 bytes  build/config.gypi</tspan>
-<tspan x="10" y="1402"> 51.  2017-04-20 14:20:04 +0000     5669 bytes  build/wiringPi.target.mk</tspan>
-<tspan x="10" y="1418"> 52.  2017-04-20 14:20:04 +0000      198 bytes  examples/blink.js</tspan>
-<tspan x="10" y="1434"> 53.  2017-04-20 14:20:04 +0000      472 bytes  examples/pwm.js</tspan>
-<tspan x="10" y="1450"> 54.  2017-04-20 14:20:04 +0000    68291 bytes  install.log</tspan>
-<tspan x="10" y="1466"> 55.  2017-04-20 14:20:04 +0000     2583 bytes  install.sh</tspan>
-<tspan x="10" y="1482"> 56.  2017-04-20 14:20:04 +0000      110 bytes  lib/exports.js</tspan>
-<tspan x="10" y="1498"> 57.  2017-04-20 14:20:04 +0000      625 bytes  package.json</tspan>
-<tspan x="10" y="1514"> 58.  2017-04-20 14:20:04 +0000      467 bytes  patchs/devLib_Makefile.patch</tspan>
-<tspan x="10" y="1530"> 59.  2017-04-20 14:20:04 +0000      542 bytes  patchs/gpio_Makefile.patch</tspan>
-<tspan x="10" y="1546"> 60.  2017-04-20 14:20:04 +0000      929 bytes  src/addon.cc</tspan>
-<tspan x="10" y="1562"> 61.  2017-04-20 14:20:04 +0000     9593 bytes  src/addon.h</tspan>
-<tspan x="10" y="1578"> 62.  2017-04-20 14:20:04 +0000      393 bytes  src/devlib/devlib.cc</tspan>
-<tspan x="10" y="1594"> 63.  2017-04-20 14:20:04 +0000      116 bytes  src/devlib/devlib.h</tspan>
-<tspan x="10" y="1610"> 64.  2017-04-20 14:20:04 +0000     3931 bytes  src/devlib/ds1302.cc</tspan>
-<tspan x="10" y="1626"> 65.  2017-04-20 14:20:04 +0000      112 bytes  src/devlib/ds1302.h</tspan>
-<tspan x="10" y="1642"> 66.  2017-04-20 14:20:04 +0000      441 bytes  src/devlib/gertboard.cc</tspan>
-<tspan x="10" y="1658"> 67.  2017-04-20 14:20:04 +0000      121 bytes  src/devlib/gertboard.h</tspan>
-<tspan x="10" y="1674"> 68.  2017-04-20 14:20:04 +0000     6066 bytes  src/devlib/lcd.cc</tspan>
-<tspan x="10" y="1690"> 69.  2017-04-20 14:20:04 +0000      103 bytes  src/devlib/lcd.h</tspan>
-<tspan x="10" y="1706"> 70.  2017-04-20 14:20:04 +0000     8598 bytes  src/devlib/lcd128x64.cc</tspan>
-<tspan x="10" y="1722"> 71.  2017-04-20 14:20:04 +0000      121 bytes  src/devlib/lcd128x64.h</tspan>
-<tspan x="10" y="1738"> 72.  2017-04-20 14:20:04 +0000     1799 bytes  src/devlib/maxdetect.cc</tspan>
-<tspan x="10" y="1754"> 73.  2017-04-20 14:20:04 +0000      121 bytes  src/devlib/maxdetect.h</tspan>
-<tspan x="10" y="1770"> 74.  2017-04-20 14:20:04 +0000      396 bytes  src/devlib/piFace.cc</tspan>
-<tspan x="10" y="1786"> 75.  2017-04-20 14:20:04 +0000      114 bytes  src/devlib/piFace.h</tspan>
-<tspan x="10" y="1802"> 76.  2017-04-20 14:20:04 +0000     1953 bytes  src/devlib/piGlow.cc</tspan>
-<tspan x="10" y="1818"> 77.  2017-04-20 14:20:04 +0000      114 bytes  src/devlib/piGlow.h</tspan>
-<tspan x="10" y="1834"> 78.  2017-04-20 14:20:04 +0000     1273 bytes  src/devlib/piNes.cc</tspan>
-<tspan x="10" y="1850"> 79.  2017-04-20 14:20:04 +0000      111 bytes  src/devlib/piNes.h</tspan>
-<tspan x="10" y="1866"> 80.  2017-04-20 14:20:04 +0000     6662 bytes  src/devlib/tcs34725.cc</tspan>
-<tspan x="10" y="1882"> 81.  2017-04-20 14:20:04 +0000      118 bytes  src/devlib/tcs34725.h</tspan>
-<tspan x="10" y="1898"> 82.  2017-04-20 14:20:04 +0000     1333 bytes  src/extensions/dac7678.cc</tspan>
-<tspan x="10" y="1914"> 83.  2017-04-20 14:20:04 +0000      109 bytes  src/extensions/dac7678.h</tspan>
-<tspan x="10" y="1930"> 84.  2017-04-20 14:20:04 +0000     1111 bytes  src/extensions/drcSerial.cc</tspan>
-<tspan x="10" y="1946"> 85.  2017-04-20 14:20:04 +0000      123 bytes  src/extensions/drcSerial.h</tspan>
-<tspan x="10" y="1962"> 86.  2017-04-20 14:20:04 +0000      758 bytes  src/extensions/extensions.cc</tspan>
-<tspan x="10" y="1978"> 87.  2017-04-20 14:20:04 +0000      126 bytes  src/extensions/extensions.h</tspan>
-<tspan x="10" y="1994"> 88.  2017-04-20 14:20:04 +0000      645 bytes  src/extensions/max31855.cc</tspan>
-<tspan x="10" y="2010"> 89.  2017-04-20 14:20:04 +0000      118 bytes  src/extensions/max31855.h</tspan>
-<tspan x="10" y="2026"> 90.  2017-04-20 14:20:04 +0000      638 bytes  src/extensions/max5322.cc</tspan>
-<tspan x="10" y="2042"> 91.  2017-04-20 14:20:04 +0000      115 bytes  src/extensions/max5322.h</tspan>
-<tspan x="10" y="2058"> 92.  2017-04-20 14:20:04 +0000      593 bytes  src/extensions/mcp23008.cc</tspan>
-<tspan x="10" y="2074"> 93.  2017-04-20 14:20:04 +0000      118 bytes  src/extensions/mcp23008.h</tspan>
-<tspan x="10" y="2090"> 94.  2017-04-20 14:20:04 +0000      593 bytes  src/extensions/mcp23016.cc</tspan>
-<tspan x="10" y="2106"> 95.  2017-04-20 14:20:04 +0000      118 bytes  src/extensions/mcp23016.h</tspan>
-<tspan x="10" y="2122"> 96.  2017-04-20 14:20:04 +0000      593 bytes  src/extensions/mcp23017.cc</tspan>
-<tspan x="10" y="2138"> 97.  2017-04-20 14:20:04 +0000      118 bytes  src/extensions/mcp23017.h</tspan>
-<tspan x="10" y="2154"> 98.  2017-04-20 14:20:04 +0000      858 bytes  src/extensions/mcp23s08.cc</tspan>
-<tspan x="10" y="2170"> 99.  2017-04-20 14:20:04 +0000      118 bytes  src/extensions/mcp23s08.h</tspan>
-<tspan x="10" y="2186">100.  2017-04-20 14:20:04 +0000     1116 bytes  src/extensions/mcp23s17.cc</tspan>
-<tspan x="10" y="2202">101.  2017-04-20 14:20:04 +0000      118 bytes  src/extensions/mcp23s17.h</tspan>
-<tspan x="10" y="2218">102.  2017-04-20 14:20:04 +0000      637 bytes  src/extensions/mcp3002.cc</tspan>
-<tspan x="10" y="2234">103.  2017-04-20 14:20:04 +0000      115 bytes  src/extensions/mcp3002.h</tspan>
-<tspan x="10" y="2250">104.  2017-04-20 14:20:04 +0000      637 bytes  src/extensions/mcp3004.cc</tspan>
-<tspan x="10" y="2266">105.  2017-04-20 14:20:04 +0000      115 bytes  src/extensions/mcp3004.h</tspan>
-<tspan x="10" y="2282">106.  2017-04-20 14:20:04 +0000     1370 bytes  src/extensions/mcp3422.cc</tspan>
-<tspan x="10" y="2298">107.  2017-04-20 14:20:04 +0000      115 bytes  src/extensions/mcp3422.h</tspan>
-<tspan x="10" y="2314">108.  2017-04-20 14:20:04 +0000      637 bytes  src/extensions/mcp4802.cc</tspan>
-<tspan x="10" y="2330">109.  2017-04-20 14:20:04 +0000      115 bytes  src/extensions/mcp4802.h</tspan>
-<tspan x="10" y="2346">110.  2017-04-20 14:20:04 +0000      640 bytes  src/extensions/pca9685.cc</tspan>
-<tspan x="10" y="2362">111.  2017-04-20 14:20:04 +0000      115 bytes  src/extensions/pca9685.h</tspan>
-<tspan x="10" y="2378">112.  2017-04-20 14:20:04 +0000      597 bytes  src/extensions/pcf8574.cc</tspan>
-<tspan x="10" y="2394">113.  2017-04-20 14:20:04 +0000      115 bytes  src/extensions/pcf8574.h</tspan>
-<tspan x="10" y="2410">114.  2017-04-20 14:20:04 +0000      597 bytes  src/extensions/pcf8591.cc</tspan>
-<tspan x="10" y="2426">115.  2017-04-20 14:20:04 +0000      115 bytes  src/extensions/pcf8591.h</tspan>
-<tspan x="10" y="2442">116.  2017-04-20 14:20:04 +0000      436 bytes  src/extensions/sn3218.cc</tspan>
-<tspan x="10" y="2458">117.  2017-04-20 14:20:04 +0000      112 bytes  src/extensions/sn3218.h</tspan>
-<tspan x="10" y="2474">118.  2017-04-20 14:20:04 +0000      982 bytes  src/extensions/sr595.cc</tspan>
-<tspan x="10" y="2490">119.  2017-04-20 14:20:04 +0000      109 bytes  src/extensions/sr595.h</tspan>
-<tspan x="10" y="2506">120.  2017-04-20 14:20:04 +0000     2669 bytes  src/softPwm.cc</tspan>
-<tspan x="10" y="2522">121.  2017-04-20 14:20:04 +0000      114 bytes  src/softPwm.h</tspan>
-<tspan x="10" y="2538">122.  2017-04-20 14:20:04 +0000     1779 bytes  src/softServo.cc</tspan>
-<tspan x="10" y="2554">123.  2017-04-20 14:20:04 +0000      120 bytes  src/softServo.h</tspan>
-<tspan x="10" y="2570">124.  2017-04-20 14:20:04 +0000     2047 bytes  src/softTone.cc</tspan>
-<tspan x="10" y="2586">125.  2017-04-20 14:20:04 +0000      117 bytes  src/softTone.h</tspan>
-<tspan x="10" y="2602">126.  2017-04-20 14:20:04 +0000    20770 bytes  src/wiringPi.cc</tspan>
-<tspan x="10" y="2618">127.  2017-04-20 14:20:04 +0000      333 bytes  src/wiringPi.h</tspan>
-<tspan x="10" y="2634">128.  2017-04-20 14:20:04 +0000     5115 bytes  src/wiringPiI2C.cc</tspan>
-<tspan x="10" y="2650">129.  2017-04-20 14:20:04 +0000      128 bytes  src/wiringPiI2C.h</tspan>
-<tspan x="10" y="2666">130.  2017-04-20 14:20:04 +0000     8782 bytes  src/wiringPiISR.cc</tspan>
-<tspan x="10" y="2682">131.  2017-04-20 14:20:04 +0000      128 bytes  src/wiringPiISR.h</tspan>
-<tspan x="10" y="2698">132.  2017-04-20 14:20:04 +0000     2953 bytes  src/wiringPiSPI.cc</tspan>
-<tspan x="10" y="2714">133.  2017-04-20 14:20:04 +0000      128 bytes  src/wiringPiSPI.h</tspan>
-<tspan x="10" y="2730">134.  2017-04-20 14:20:04 +0000     3633 bytes  src/wiringSerial.cc</tspan>
-<tspan x="10" y="2746">135.  2017-04-20 14:20:04 +0000      129 bytes  src/wiringSerial.h</tspan>
-<tspan x="10" y="2762">136.  2017-04-20 14:20:04 +0000     2231 bytes  src/wiringShift.cc</tspan>
-<tspan x="10" y="2778">137.  2017-04-20 14:20:04 +0000      126 bytes  src/wiringShift.h</tspan>
-<tspan x="10" y="2794">138.  2017-04-20 14:20:04 +0000      408 bytes  src/wpi.cc</tspan>
-<tspan x="10" y="2810">139.  2017-04-20 14:20:04 +0000      341 bytes  src/wpi.h</tspan>
-<tspan x="10" y="2826">140.  2017-04-20 14:20:04 +0000          bytes  wiringpi</tspan>
+<tspan x="10" y="1338"> 47.  2017-04-20 14:21:49 +0000     3992 bytes  build/Release/obj.target/wiringPi/src/wpi.o</tspan>
+<tspan x="10" y="1354"> 48.  2017-04-20 14:21:49 +0000   257468 bytes  build/Release/wiringPi.node</tspan>
+<tspan x="10" y="1370"> 49.  2017-04-20 14:21:49 +0000      116 bytes  build/binding.Makefile</tspan>
+<tspan x="10" y="1386"> 50.  2017-04-20 14:21:49 +0000     4782 bytes  build/config.gypi</tspan>
+<tspan x="10" y="1402"> 51.  2017-04-20 14:21:49 +0000     5669 bytes  build/wiringPi.target.mk</tspan>
+<tspan x="10" y="1418"> 52.  2017-04-20 14:21:49 +0000      198 bytes  examples/blink.js</tspan>
+<tspan x="10" y="1434"> 53.  2017-04-20 14:21:49 +0000      472 bytes  examples/pwm.js</tspan>
+<tspan x="10" y="1450"> 54.  2017-04-20 14:21:49 +0000    68291 bytes  install.log</tspan>
+<tspan x="10" y="1466"> 55.  2017-04-20 14:21:49 +0000     2583 bytes  install.sh</tspan>
+<tspan x="10" y="1482"> 56.  2017-04-20 14:21:49 +0000      110 bytes  lib/exports.js</tspan>
+<tspan x="10" y="1498"> 57.  2017-04-20 14:21:49 +0000      625 bytes  package.json</tspan>
+<tspan x="10" y="1514"> 58.  2017-04-20 14:21:49 +0000      467 bytes  patchs/devLib_Makefile.patch</tspan>
+<tspan x="10" y="1530"> 59.  2017-04-20 14:21:49 +0000      542 bytes  patchs/gpio_Makefile.patch</tspan>
+<tspan x="10" y="1546"> 60.  2017-04-20 14:21:49 +0000      929 bytes  src/addon.cc</tspan>
+<tspan x="10" y="1562"> 61.  2017-04-20 14:21:49 +0000     9593 bytes  src/addon.h</tspan>
+<tspan x="10" y="1578"> 62.  2017-04-20 14:21:49 +0000      393 bytes  src/devlib/devlib.cc</tspan>
+<tspan x="10" y="1594"> 63.  2017-04-20 14:21:49 +0000      116 bytes  src/devlib/devlib.h</tspan>
+<tspan x="10" y="1610"> 64.  2017-04-20 14:21:49 +0000     3931 bytes  src/devlib/ds1302.cc</tspan>
+<tspan x="10" y="1626"> 65.  2017-04-20 14:21:49 +0000      112 bytes  src/devlib/ds1302.h</tspan>
+<tspan x="10" y="1642"> 66.  2017-04-20 14:21:49 +0000      441 bytes  src/devlib/gertboard.cc</tspan>
+<tspan x="10" y="1658"> 67.  2017-04-20 14:21:49 +0000      121 bytes  src/devlib/gertboard.h</tspan>
+<tspan x="10" y="1674"> 68.  2017-04-20 14:21:49 +0000     6066 bytes  src/devlib/lcd.cc</tspan>
+<tspan x="10" y="1690"> 69.  2017-04-20 14:21:49 +0000      103 bytes  src/devlib/lcd.h</tspan>
+<tspan x="10" y="1706"> 70.  2017-04-20 14:21:49 +0000     8598 bytes  src/devlib/lcd128x64.cc</tspan>
+<tspan x="10" y="1722"> 71.  2017-04-20 14:21:49 +0000      121 bytes  src/devlib/lcd128x64.h</tspan>
+<tspan x="10" y="1738"> 72.  2017-04-20 14:21:49 +0000     1799 bytes  src/devlib/maxdetect.cc</tspan>
+<tspan x="10" y="1754"> 73.  2017-04-20 14:21:49 +0000      121 bytes  src/devlib/maxdetect.h</tspan>
+<tspan x="10" y="1770"> 74.  2017-04-20 14:21:49 +0000      396 bytes  src/devlib/piFace.cc</tspan>
+<tspan x="10" y="1786"> 75.  2017-04-20 14:21:49 +0000      114 bytes  src/devlib/piFace.h</tspan>
+<tspan x="10" y="1802"> 76.  2017-04-20 14:21:49 +0000     1953 bytes  src/devlib/piGlow.cc</tspan>
+<tspan x="10" y="1818"> 77.  2017-04-20 14:21:49 +0000      114 bytes  src/devlib/piGlow.h</tspan>
+<tspan x="10" y="1834"> 78.  2017-04-20 14:21:49 +0000     1273 bytes  src/devlib/piNes.cc</tspan>
+<tspan x="10" y="1850"> 79.  2017-04-20 14:21:49 +0000      111 bytes  src/devlib/piNes.h</tspan>
+<tspan x="10" y="1866"> 80.  2017-04-20 14:21:49 +0000     6662 bytes  src/devlib/tcs34725.cc</tspan>
+<tspan x="10" y="1882"> 81.  2017-04-20 14:21:49 +0000      118 bytes  src/devlib/tcs34725.h</tspan>
+<tspan x="10" y="1898"> 82.  2017-04-20 14:21:49 +0000     1333 bytes  src/extensions/dac7678.cc</tspan>
+<tspan x="10" y="1914"> 83.  2017-04-20 14:21:49 +0000      109 bytes  src/extensions/dac7678.h</tspan>
+<tspan x="10" y="1930"> 84.  2017-04-20 14:21:49 +0000     1111 bytes  src/extensions/drcSerial.cc</tspan>
+<tspan x="10" y="1946"> 85.  2017-04-20 14:21:49 +0000      123 bytes  src/extensions/drcSerial.h</tspan>
+<tspan x="10" y="1962"> 86.  2017-04-20 14:21:49 +0000      758 bytes  src/extensions/extensions.cc</tspan>
+<tspan x="10" y="1978"> 87.  2017-04-20 14:21:49 +0000      126 bytes  src/extensions/extensions.h</tspan>
+<tspan x="10" y="1994"> 88.  2017-04-20 14:21:49 +0000      645 bytes  src/extensions/max31855.cc</tspan>
+<tspan x="10" y="2010"> 89.  2017-04-20 14:21:49 +0000      118 bytes  src/extensions/max31855.h</tspan>
+<tspan x="10" y="2026"> 90.  2017-04-20 14:21:49 +0000      638 bytes  src/extensions/max5322.cc</tspan>
+<tspan x="10" y="2042"> 91.  2017-04-20 14:21:49 +0000      115 bytes  src/extensions/max5322.h</tspan>
+<tspan x="10" y="2058"> 92.  2017-04-20 14:21:49 +0000      593 bytes  src/extensions/mcp23008.cc</tspan>
+<tspan x="10" y="2074"> 93.  2017-04-20 14:21:49 +0000      118 bytes  src/extensions/mcp23008.h</tspan>
+<tspan x="10" y="2090"> 94.  2017-04-20 14:21:49 +0000      593 bytes  src/extensions/mcp23016.cc</tspan>
+<tspan x="10" y="2106"> 95.  2017-04-20 14:21:49 +0000      118 bytes  src/extensions/mcp23016.h</tspan>
+<tspan x="10" y="2122"> 96.  2017-04-20 14:21:49 +0000      593 bytes  src/extensions/mcp23017.cc</tspan>
+<tspan x="10" y="2138"> 97.  2017-04-20 14:21:49 +0000      118 bytes  src/extensions/mcp23017.h</tspan>
+<tspan x="10" y="2154"> 98.  2017-04-20 14:21:49 +0000      858 bytes  src/extensions/mcp23s08.cc</tspan>
+<tspan x="10" y="2170"> 99.  2017-04-20 14:21:49 +0000      118 bytes  src/extensions/mcp23s08.h</tspan>
+<tspan x="10" y="2186">100.  2017-04-20 14:21:49 +0000     1116 bytes  src/extensions/mcp23s17.cc</tspan>
+<tspan x="10" y="2202">101.  2017-04-20 14:21:49 +0000      118 bytes  src/extensions/mcp23s17.h</tspan>
+<tspan x="10" y="2218">102.  2017-04-20 14:21:49 +0000      637 bytes  src/extensions/mcp3002.cc</tspan>
+<tspan x="10" y="2234">103.  2017-04-20 14:21:49 +0000      115 bytes  src/extensions/mcp3002.h</tspan>
+<tspan x="10" y="2250">104.  2017-04-20 14:21:49 +0000      637 bytes  src/extensions/mcp3004.cc</tspan>
+<tspan x="10" y="2266">105.  2017-04-20 14:21:49 +0000      115 bytes  src/extensions/mcp3004.h</tspan>
+<tspan x="10" y="2282">106.  2017-04-20 14:21:49 +0000     1370 bytes  src/extensions/mcp3422.cc</tspan>
+<tspan x="10" y="2298">107.  2017-04-20 14:21:49 +0000      115 bytes  src/extensions/mcp3422.h</tspan>
+<tspan x="10" y="2314">108.  2017-04-20 14:21:49 +0000      637 bytes  src/extensions/mcp4802.cc</tspan>
+<tspan x="10" y="2330">109.  2017-04-20 14:21:49 +0000      115 bytes  src/extensions/mcp4802.h</tspan>
+<tspan x="10" y="2346">110.  2017-04-20 14:21:49 +0000      640 bytes  src/extensions/pca9685.cc</tspan>
+<tspan x="10" y="2362">111.  2017-04-20 14:21:49 +0000      115 bytes  src/extensions/pca9685.h</tspan>
+<tspan x="10" y="2378">112.  2017-04-20 14:21:49 +0000      597 bytes  src/extensions/pcf8574.cc</tspan>
+<tspan x="10" y="2394">113.  2017-04-20 14:21:49 +0000      115 bytes  src/extensions/pcf8574.h</tspan>
+<tspan x="10" y="2410">114.  2017-04-20 14:21:49 +0000      597 bytes  src/extensions/pcf8591.cc</tspan>
+<tspan x="10" y="2426">115.  2017-04-20 14:21:49 +0000      115 bytes  src/extensions/pcf8591.h</tspan>
+<tspan x="10" y="2442">116.  2017-04-20 14:21:49 +0000      436 bytes  src/extensions/sn3218.cc</tspan>
+<tspan x="10" y="2458">117.  2017-04-20 14:21:49 +0000      112 bytes  src/extensions/sn3218.h</tspan>
+<tspan x="10" y="2474">118.  2017-04-20 14:21:49 +0000      982 bytes  src/extensions/sr595.cc</tspan>
+<tspan x="10" y="2490">119.  2017-04-20 14:21:49 +0000      109 bytes  src/extensions/sr595.h</tspan>
+<tspan x="10" y="2506">120.  2017-04-20 14:21:49 +0000     2669 bytes  src/softPwm.cc</tspan>
+<tspan x="10" y="2522">121.  2017-04-20 14:21:49 +0000      114 bytes  src/softPwm.h</tspan>
+<tspan x="10" y="2538">122.  2017-04-20 14:21:49 +0000     1779 bytes  src/softServo.cc</tspan>
+<tspan x="10" y="2554">123.  2017-04-20 14:21:49 +0000      120 bytes  src/softServo.h</tspan>
+<tspan x="10" y="2570">124.  2017-04-20 14:21:49 +0000     2047 bytes  src/softTone.cc</tspan>
+<tspan x="10" y="2586">125.  2017-04-20 14:21:49 +0000      117 bytes  src/softTone.h</tspan>
+<tspan x="10" y="2602">126.  2017-04-20 14:21:49 +0000    20770 bytes  src/wiringPi.cc</tspan>
+<tspan x="10" y="2618">127.  2017-04-20 14:21:49 +0000      333 bytes  src/wiringPi.h</tspan>
+<tspan x="10" y="2634">128.  2017-04-20 14:21:49 +0000     5115 bytes  src/wiringPiI2C.cc</tspan>
+<tspan x="10" y="2650">129.  2017-04-20 14:21:49 +0000      128 bytes  src/wiringPiI2C.h</tspan>
+<tspan x="10" y="2666">130.  2017-04-20 14:21:49 +0000     8782 bytes  src/wiringPiISR.cc</tspan>
+<tspan x="10" y="2682">131.  2017-04-20 14:21:49 +0000      128 bytes  src/wiringPiISR.h</tspan>
+<tspan x="10" y="2698">132.  2017-04-20 14:21:49 +0000     2953 bytes  src/wiringPiSPI.cc</tspan>
+<tspan x="10" y="2714">133.  2017-04-20 14:21:49 +0000      128 bytes  src/wiringPiSPI.h</tspan>
+<tspan x="10" y="2730">134.  2017-04-20 14:21:49 +0000     3633 bytes  src/wiringSerial.cc</tspan>
+<tspan x="10" y="2746">135.  2017-04-20 14:21:49 +0000      129 bytes  src/wiringSerial.h</tspan>
+<tspan x="10" y="2762">136.  2017-04-20 14:21:49 +0000     2231 bytes  src/wiringShift.cc</tspan>
+<tspan x="10" y="2778">137.  2017-04-20 14:21:49 +0000      126 bytes  src/wiringShift.h</tspan>
+<tspan x="10" y="2794">138.  2017-04-20 14:21:49 +0000      408 bytes  src/wpi.cc</tspan>
+<tspan x="10" y="2810">139.  2017-04-20 14:21:49 +0000      341 bytes  src/wpi.h</tspan>
+<tspan x="10" y="2826">140.  2017-04-20 14:21:49 +0000          bytes  wiringpi</tspan>
 </text>
 </svg>
